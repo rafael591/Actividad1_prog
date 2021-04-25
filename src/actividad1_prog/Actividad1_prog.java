@@ -18,7 +18,7 @@ public class Actividad1_prog{
         
         int suma = 0;
         
-        for (int i = 0; i < 103; i++) {
+        for (int i = 0; i < 11; i++) {
             suma += i;
         }
         
@@ -29,7 +29,7 @@ public class Actividad1_prog{
         
         double factorial = 1;
         
-        for (int i = 1; i <= 103; i++) {
+        for (int i = 1; i <= 11; i++) {
             
             factorial *= i;
         }
