@@ -29,12 +29,12 @@ public class Actividad1_prog{
         
         double factorial = 1;
         
-        for (int i = 1; i <= 11; i++) {
+        for (int i = 1; i < 11; i++) {
             
             factorial *= i;
         }
         
-        System.out.println("El factorial de 103 es: " + factorial);
+        System.out.println("El factorial de 10 es: " + factorial);
     }
     
     public static void factorialUsuario(int numTemp){
